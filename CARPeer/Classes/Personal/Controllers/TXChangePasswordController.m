@@ -9,7 +9,7 @@
 #import "TXChangePasswordController.h"
 #import "TXDataService.h"
 #import "TXUserMessageController.h"
-#import "TXPersonalController.m"
+#import "TXPersonalController.h"
 #import "Common.h"
 
 @interface TXChangePasswordController ()
