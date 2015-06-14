@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AAFBC170-65C1-483E-9648-3D508DC8752F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CARPeer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BAB7F2CA86B33A7893F423864C464F9E9EE46CFA</key>
+		<string>https://github.com/ayctey/CARPeer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CARPeer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BAB7F2CA86B33A7893F423864C464F9E9EE46CFA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ayctey/CARPeer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BAB7F2CA86B33A7893F423864C464F9E9EE46CFA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BAB7F2CA86B33A7893F423864C464F9E9EE46CFA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CARPeer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
